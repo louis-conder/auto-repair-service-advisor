@@ -156,8 +156,7 @@ knowledge to draw from.
 
 None of them overlap. That's intentional.
 
-This is Interpretable Context Methodology — folder as
-architecture. Each file is readable on its own. The
+Each file is readable on its own. The
 structure tells you what's where before you open anything.
 A teammate, a contractor, or a future version of you
 can clone this, read the README, and be productive in
@@ -219,8 +218,7 @@ needs to communicate it without losing their trust.
   specific. Most of them will need only minor language
   changes for another trade.
 
-**Trades this structure has been adapted for:**
-*(leave blank — let forks fill this in)*
+
 
 ---
 
@@ -246,6 +244,3 @@ plain language, honest consequence, real uncertainty,
 and a decision that belongs to the customer.
 
 ---
-
-*Built using Interpretable Context Methodology.*
-*Structure based on Jake Clief's ICM framework.*
