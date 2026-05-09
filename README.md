@@ -1,5 +1,4 @@
 # Auto Repair Service Advisor
-### An ICM Specialist for Independent Shop Owners
 
 ---
 
